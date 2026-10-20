@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.frioestoque.app",
+        "sha256_cert_fingerprints": ["AA:41:29:9C:CE:6B:A0:02:2C:BD:60:8D:7F:36:34:64:F7:60:73:69:D7:EA:28:2F:88:33:7F:C9:66:EB:F7:EB"]
+      }
+    }]
