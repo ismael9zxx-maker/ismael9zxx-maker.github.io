@@ -1,8 +1,15 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.frioestoque.app",
-        "sha256_cert_fingerprints": ["AA:41:29:9C:CE:6B:A0:02:2C:BD:60:8D:7F:36:34:64:F7:60:73:69:D7:EA:28:2F:88:33:7F:C9:66:EB:F7:EB"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.frioestoque.app",
+    "sha256_cert_fingerprints": ["AA:41:29:9C:CE:6B:A0:02:2C:BD:60:8D:7F:36:34:64:F7:60:73:69:D7:EA:28:2F:88:33:7F:C9:66:EB:F7:EB"]
+  }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.notasavulsas.app",
+    "sha256_cert_fingerprints": ["C2:B7:C8:2C:02:AB:3D:4C:9D:30:9D:09:53:EA:65:5C:A2:81:3E:C4:B6:8E:4D:3B:68:C8:F1:07:81:2A:34:1C"]
+  }
+}]
